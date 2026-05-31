@@ -1,0 +1,47 @@
+﻿name: 自动转 HTML 并部署 Pages
+
+on:
+  push:
+    paths:
+      - '**.ipynb'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install nbconvert nbformat
+
+      - name: 将所有 notebook 转成 HTML
+        run: |
+          find . -name '*.ipynb' -not -path './.git/*' -not -path './docs/*' | while read f; do
+            dir=$(dirname "$f")
+            mkdir -p "docs/$dir"
+            echo "Converting: $f"
+            jupyter nbconvert --to html --output-dir "docs/$dir" "$f"
+          done
+
+      - name: 生成导航首页
+        run: |
+          echo '<!DOCTYPE html><html><head><meta charset="utf-8"><title>学习笔记</title><style>body{font-family:system-ui,sans-serif;max-width:800px;margin:40px auto;padding:0 20px;line-height:1.8}a{color:#0969da;text-decoration:none}a:hover{text-decoration:underline}h2{border-bottom:1px solid #ddd;padding-bottom:8px}li{margin:6px 0}</style></head><body><h1>DSML 学习笔记</h1><ul>' > docs/index.html
+          find docs -name '*.html' -not -name 'index.html' | sort | while read f; do
+            path="${f#docs/}"
+            echo "<li><a href=\"$path\">${path%.html}</a></li>"
+          done >> docs/index.html
+          echo '</ul></body></html>' >> docs/index.html
+
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - uses: actions/deploy-pages@v4
