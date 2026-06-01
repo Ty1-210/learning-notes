@@ -1,4 +1,4 @@
-﻿# DSML 学习笔记
+﻿# DS ML 学习笔记
 
 我的数据科学与机器学习课程笔记，涵盖 NumPy、Pandas、Machine Learning 等内容。
 
