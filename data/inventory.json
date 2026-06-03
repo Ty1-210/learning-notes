@@ -1,0 +1,1089 @@
+[
+  {
+    "sku": "SKU-00001",
+    "product": "Noise Cancelling Headphones",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 139,
+      "WH-Memphis": 90,
+      "WH-Portland": 173
+    },
+    "total_stock": 402,
+    "reorder_point": 26,
+    "needs_restock": false,
+    "last_audited": "2024-05-08"
+  },
+  {
+    "sku": "SKU-00002",
+    "product": "USB-C Hub",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Atlanta": 180,
+      "WH-Memphis": 53,
+      "WH-Portland": 176
+    },
+    "total_stock": 409,
+    "reorder_point": 41,
+    "needs_restock": false,
+    "last_audited": "2024-04-18"
+  },
+  {
+    "sku": "SKU-00003",
+    "product": "External SSD 1TB",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 101,
+      "WH-Portland": 88,
+      "WH-Atlanta": 197
+    },
+    "total_stock": 386,
+    "reorder_point": 19,
+    "needs_restock": false,
+    "last_audited": "2024-04-26"
+  },
+  {
+    "sku": "SKU-00004",
+    "product": "Ergonomic Chair",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Memphis": 191,
+      "WH-Portland": 122,
+      "WH-Atlanta": 54
+    },
+    "total_stock": 367,
+    "reorder_point": 22,
+    "needs_restock": false,
+    "last_audited": "2024-04-28"
+  },
+  {
+    "sku": "SKU-00005",
+    "product": "Cable Management Kit",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 189,
+      "WH-Portland": 150
+    },
+    "total_stock": 339,
+    "reorder_point": 25,
+    "needs_restock": false,
+    "last_audited": "2024-03-08"
+  },
+  {
+    "sku": "SKU-00006",
+    "product": "Cable Management Kit",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Austin": 105,
+      "WH-Memphis": 84
+    },
+    "total_stock": 189,
+    "reorder_point": 40,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00007",
+    "product": "Standing Desk",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 104
+    },
+    "total_stock": 104,
+    "reorder_point": 40,
+    "needs_restock": false,
+    "last_audited": "2024-05-07"
+  },
+  {
+    "sku": "SKU-00008",
+    "product": "Standing Desk",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Portland": 196,
+      "WH-Memphis": 22,
+      "WH-Austin": 166
+    },
+    "total_stock": 384,
+    "reorder_point": 46,
+    "needs_restock": false,
+    "last_audited": "2024-05-28"
+  },
+  {
+    "sku": "SKU-00009",
+    "product": "Cable Management Kit",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 47,
+      "WH-Austin": 191,
+      "WH-Memphis": 74,
+      "WH-Portland": 9
+    },
+    "total_stock": 321,
+    "reorder_point": 10,
+    "needs_restock": false,
+    "last_audited": "2024-03-16"
+  },
+  {
+    "sku": "SKU-00010",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Memphis": 34,
+      "WH-Portland": 129,
+      "WH-Atlanta": 119
+    },
+    "total_stock": 282,
+    "reorder_point": 27,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00011",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Memphis": 65,
+      "WH-Portland": 183
+    },
+    "total_stock": 248,
+    "reorder_point": 21,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00012",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Atlanta": 163,
+      "WH-Portland": 103
+    },
+    "total_stock": 266,
+    "reorder_point": 37,
+    "needs_restock": false,
+    "last_audited": "2024-05-21"
+  },
+  {
+    "sku": "SKU-00013",
+    "product": "Desk Lamp",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 82,
+      "WH-Memphis": 63
+    },
+    "total_stock": 145,
+    "reorder_point": 10,
+    "needs_restock": false,
+    "last_audited": "2024-05-02"
+  },
+  {
+    "sku": "SKU-00014",
+    "product": "Noise Cancelling Headphones",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Portland": 66,
+      "WH-Memphis": 167,
+      "WH-Austin": 92
+    },
+    "total_stock": 325,
+    "reorder_point": 25,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00015",
+    "product": "Mechanical Keyboard",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 176,
+      "WH-Memphis": 30,
+      "WH-Portland": 163
+    },
+    "total_stock": 369,
+    "reorder_point": 28,
+    "needs_restock": false,
+    "last_audited": "2024-05-04"
+  },
+  {
+    "sku": "SKU-00016",
+    "product": "USB-C Hub",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 179,
+      "WH-Memphis": 140,
+      "WH-Portland": 120,
+      "WH-Austin": 193
+    },
+    "total_stock": 632,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": "2024-05-05"
+  },
+  {
+    "sku": "SKU-00017",
+    "product": "Standing Desk",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Memphis": 135
+    },
+    "total_stock": 135,
+    "reorder_point": 33,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00018",
+    "product": "Tablet Stand",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 146
+    },
+    "total_stock": 146,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00019",
+    "product": "Laptop Stand",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 183
+    },
+    "total_stock": 183,
+    "reorder_point": 47,
+    "needs_restock": false,
+    "last_audited": "2024-03-28"
+  },
+  {
+    "sku": "SKU-00020",
+    "product": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 144,
+      "WH-Portland": 14,
+      "WH-Memphis": 143,
+      "WH-Austin": 118
+    },
+    "total_stock": 419,
+    "reorder_point": 29,
+    "needs_restock": false,
+    "last_audited": "2024-04-12"
+  },
+  {
+    "sku": "SKU-00021",
+    "product": "Webcam HD",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Austin": 108,
+      "WH-Memphis": 88
+    },
+    "total_stock": 196,
+    "reorder_point": 14,
+    "needs_restock": false,
+    "last_audited": "2024-05-25"
+  },
+  {
+    "sku": "SKU-00022",
+    "product": "Cable Management Kit",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Austin": 196,
+      "WH-Atlanta": 34,
+      "WH-Portland": 196,
+      "WH-Memphis": 164
+    },
+    "total_stock": 590,
+    "reorder_point": 36,
+    "needs_restock": false,
+    "last_audited": "2024-04-14"
+  },
+  {
+    "sku": "SKU-00023",
+    "product": "Noise Cancelling Headphones",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 30,
+      "WH-Portland": 45,
+      "WH-Memphis": 137,
+      "WH-Atlanta": 100
+    },
+    "total_stock": 312,
+    "reorder_point": 43,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00024",
+    "product": "USB-C Hub",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Portland": 118
+    },
+    "total_stock": 118,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": "2024-04-14"
+  },
+  {
+    "sku": "SKU-00025",
+    "product": "Monitor Arm",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Memphis": 39,
+      "WH-Atlanta": 70
+    },
+    "total_stock": 109,
+    "reorder_point": 22,
+    "needs_restock": false,
+    "last_audited": "2024-05-18"
+  },
+  {
+    "sku": "SKU-00026",
+    "product": "Wireless Mouse",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 52
+    },
+    "total_stock": 52,
+    "reorder_point": 14,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00027",
+    "product": "Wireless Mouse",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 189
+    },
+    "total_stock": 189,
+    "reorder_point": 12,
+    "needs_restock": false,
+    "last_audited": "2024-05-03"
+  },
+  {
+    "sku": "SKU-00028",
+    "product": "External SSD 1TB",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 128
+    },
+    "total_stock": 128,
+    "reorder_point": 28,
+    "needs_restock": false,
+    "last_audited": "2024-03-20"
+  },
+  {
+    "sku": "SKU-00029",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Portland": 169,
+      "WH-Austin": 133
+    },
+    "total_stock": 302,
+    "reorder_point": 24,
+    "needs_restock": false,
+    "last_audited": "2024-04-27"
+  },
+  {
+    "sku": "SKU-00030",
+    "product": "Wireless Mouse",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Memphis": 134,
+      "WH-Austin": 81,
+      "WH-Atlanta": 178,
+      "WH-Portland": 106
+    },
+    "total_stock": 499,
+    "reorder_point": 36,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00031",
+    "product": "Desk Lamp",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 118,
+      "WH-Austin": 14,
+      "WH-Memphis": 143,
+      "WH-Portland": 105
+    },
+    "total_stock": 380,
+    "reorder_point": 36,
+    "needs_restock": false,
+    "last_audited": "2024-05-15"
+  },
+  {
+    "sku": "SKU-00032",
+    "product": "Desk Lamp",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 115,
+      "WH-Memphis": 94,
+      "WH-Austin": 23
+    },
+    "total_stock": 232,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": "2024-05-08"
+  },
+  {
+    "sku": "SKU-00033",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 122,
+      "WH-Memphis": 53,
+      "WH-Portland": 85,
+      "WH-Atlanta": 77
+    },
+    "total_stock": 337,
+    "reorder_point": 10,
+    "needs_restock": false,
+    "last_audited": "2024-05-08"
+  },
+  {
+    "sku": "SKU-00034",
+    "product": "Ergonomic Chair",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 61,
+      "WH-Portland": 141,
+      "WH-Austin": 82,
+      "WH-Memphis": 198
+    },
+    "total_stock": 482,
+    "reorder_point": 28,
+    "needs_restock": false,
+    "last_audited": "2024-03-25"
+  },
+  {
+    "sku": "SKU-00035",
+    "product": "Charging Pad",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Portland": 119,
+      "WH-Atlanta": 25,
+      "WH-Memphis": 184
+    },
+    "total_stock": 328,
+    "reorder_point": 40,
+    "needs_restock": false,
+    "last_audited": "2024-04-22"
+  },
+  {
+    "sku": "SKU-00036",
+    "product": "Cable Management Kit",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Portland": 144,
+      "WH-Atlanta": 56,
+      "WH-Austin": 189
+    },
+    "total_stock": 389,
+    "reorder_point": 19,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00037",
+    "product": "External SSD 1TB",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 58,
+      "WH-Austin": 97,
+      "WH-Memphis": 145
+    },
+    "total_stock": 300,
+    "reorder_point": 25,
+    "needs_restock": false,
+    "last_audited": "2024-03-10"
+  },
+  {
+    "sku": "SKU-00038",
+    "product": "Charging Pad",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Memphis": 117,
+      "WH-Portland": 43,
+      "WH-Atlanta": 187
+    },
+    "total_stock": 347,
+    "reorder_point": 32,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00039",
+    "product": "Ergonomic Chair",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 8,
+      "WH-Portland": 19
+    },
+    "total_stock": 27,
+    "reorder_point": 13,
+    "needs_restock": false,
+    "last_audited": "2024-04-10"
+  },
+  {
+    "sku": "SKU-00040",
+    "product": "27\" Monitor",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 2
+    },
+    "total_stock": 2,
+    "reorder_point": 23,
+    "needs_restock": true,
+    "last_audited": "2024-04-15"
+  },
+  {
+    "sku": "SKU-00041",
+    "product": "Wireless Mouse",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 4,
+      "WH-Memphis": 135,
+      "WH-Atlanta": 184,
+      "WH-Portland": 70
+    },
+    "total_stock": 393,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": "2024-05-30"
+  },
+  {
+    "sku": "SKU-00042",
+    "product": "External SSD 1TB",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 134,
+      "WH-Memphis": 38
+    },
+    "total_stock": 172,
+    "reorder_point": 25,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00043",
+    "product": "External SSD 1TB",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Portland": 95,
+      "WH-Atlanta": 103,
+      "WH-Austin": 117
+    },
+    "total_stock": 315,
+    "reorder_point": 46,
+    "needs_restock": false,
+    "last_audited": "2024-03-04"
+  },
+  {
+    "sku": "SKU-00044",
+    "product": "USB-C Hub",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 23
+    },
+    "total_stock": 23,
+    "reorder_point": 35,
+    "needs_restock": true,
+    "last_audited": "2024-03-23"
+  },
+  {
+    "sku": "SKU-00045",
+    "product": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 21
+    },
+    "total_stock": 21,
+    "reorder_point": 41,
+    "needs_restock": true,
+    "last_audited": "2024-03-11"
+  },
+  {
+    "sku": "SKU-00046",
+    "product": "Standing Desk",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 58
+    },
+    "total_stock": 58,
+    "reorder_point": 23,
+    "needs_restock": false,
+    "last_audited": "2024-03-05"
+  },
+  {
+    "sku": "SKU-00047",
+    "product": "Cable Management Kit",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 139,
+      "WH-Memphis": 144,
+      "WH-Atlanta": 168
+    },
+    "total_stock": 451,
+    "reorder_point": 12,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00048",
+    "product": "Monitor Arm",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Atlanta": 150
+    },
+    "total_stock": 150,
+    "reorder_point": 19,
+    "needs_restock": false,
+    "last_audited": "2024-04-12"
+  },
+  {
+    "sku": "SKU-00049",
+    "product": "Cable Management Kit",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 145,
+      "WH-Portland": 99,
+      "WH-Austin": 173
+    },
+    "total_stock": 417,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": "2024-05-15"
+  },
+  {
+    "sku": "SKU-00050",
+    "product": "Standing Desk",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Austin": 59,
+      "WH-Memphis": 19,
+      "WH-Atlanta": 87
+    },
+    "total_stock": 165,
+    "reorder_point": 48,
+    "needs_restock": false,
+    "last_audited": "2024-03-17"
+  },
+  {
+    "sku": "SKU-00051",
+    "product": "Desk Lamp",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Portland": 200
+    },
+    "total_stock": 200,
+    "reorder_point": 38,
+    "needs_restock": false,
+    "last_audited": "2024-04-17"
+  },
+  {
+    "sku": "SKU-00052",
+    "product": "External SSD 1TB",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 197,
+      "WH-Portland": 158,
+      "WH-Memphis": 75,
+      "WH-Austin": 63
+    },
+    "total_stock": 493,
+    "reorder_point": 14,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00053",
+    "product": "27\" Monitor",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Memphis": 92,
+      "WH-Atlanta": 27
+    },
+    "total_stock": 119,
+    "reorder_point": 15,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00054",
+    "product": "Webcam HD",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Portland": 22,
+      "WH-Austin": 47,
+      "WH-Memphis": 110
+    },
+    "total_stock": 179,
+    "reorder_point": 38,
+    "needs_restock": false,
+    "last_audited": "2024-03-28"
+  },
+  {
+    "sku": "SKU-00055",
+    "product": "Desk Lamp",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Austin": 90
+    },
+    "total_stock": 90,
+    "reorder_point": 45,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00056",
+    "product": "Tablet Stand",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 199,
+      "WH-Atlanta": 21,
+      "WH-Portland": 185,
+      "WH-Memphis": 143
+    },
+    "total_stock": 548,
+    "reorder_point": 25,
+    "needs_restock": false,
+    "last_audited": "2024-05-11"
+  },
+  {
+    "sku": "SKU-00057",
+    "product": "Charging Pad",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 77,
+      "WH-Memphis": 68
+    },
+    "total_stock": 145,
+    "reorder_point": 41,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00058",
+    "product": "27\" Monitor",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Memphis": 200,
+      "WH-Atlanta": 19,
+      "WH-Portland": 92
+    },
+    "total_stock": 311,
+    "reorder_point": 26,
+    "needs_restock": false,
+    "last_audited": "2024-03-13"
+  },
+  {
+    "sku": "SKU-00059",
+    "product": "Noise Cancelling Headphones",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Austin": 101,
+      "WH-Memphis": 85,
+      "WH-Atlanta": 158,
+      "WH-Portland": 97
+    },
+    "total_stock": 441,
+    "reorder_point": 31,
+    "needs_restock": false,
+    "last_audited": "2024-04-07"
+  },
+  {
+    "sku": "SKU-00060",
+    "product": "Monitor Arm",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Portland": 122,
+      "WH-Memphis": 80,
+      "WH-Austin": 45
+    },
+    "total_stock": 247,
+    "reorder_point": 35,
+    "needs_restock": false,
+    "last_audited": "2024-04-25"
+  },
+  {
+    "sku": "SKU-00061",
+    "product": "Ergonomic Chair",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Portland": 71,
+      "WH-Atlanta": 100
+    },
+    "total_stock": 171,
+    "reorder_point": 33,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00062",
+    "product": "Tablet Stand",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Austin": 118,
+      "WH-Portland": 181
+    },
+    "total_stock": 299,
+    "reorder_point": 23,
+    "needs_restock": false,
+    "last_audited": "2024-04-25"
+  },
+  {
+    "sku": "SKU-00063",
+    "product": "Monitor Arm",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Memphis": 64,
+      "WH-Austin": 168,
+      "WH-Atlanta": 39,
+      "WH-Portland": 183
+    },
+    "total_stock": 454,
+    "reorder_point": 37,
+    "needs_restock": false,
+    "last_audited": "2024-05-23"
+  },
+  {
+    "sku": "SKU-00064",
+    "product": "Noise Cancelling Headphones",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Memphis": 179,
+      "WH-Portland": 137,
+      "WH-Austin": 152,
+      "WH-Atlanta": 163
+    },
+    "total_stock": 631,
+    "reorder_point": 15,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00065",
+    "product": "USB-C Hub",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Austin": 165,
+      "WH-Portland": 173
+    },
+    "total_stock": 338,
+    "reorder_point": 35,
+    "needs_restock": false,
+    "last_audited": "2024-04-20"
+  },
+  {
+    "sku": "SKU-00066",
+    "product": "Standing Desk",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 25
+    },
+    "total_stock": 25,
+    "reorder_point": 26,
+    "needs_restock": true,
+    "last_audited": "2024-03-27"
+  },
+  {
+    "sku": "SKU-00067",
+    "product": "External SSD 1TB",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Portland": 88,
+      "WH-Atlanta": 6,
+      "WH-Memphis": 123,
+      "WH-Austin": 26
+    },
+    "total_stock": 243,
+    "reorder_point": 28,
+    "needs_restock": false,
+    "last_audited": "2024-05-22"
+  },
+  {
+    "sku": "SKU-00068",
+    "product": "Mechanical Keyboard",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Portland": 200,
+      "WH-Atlanta": 52,
+      "WH-Memphis": 133
+    },
+    "total_stock": 385,
+    "reorder_point": 40,
+    "needs_restock": false,
+    "last_audited": "2024-05-20"
+  },
+  {
+    "sku": "SKU-00069",
+    "product": "Noise Cancelling Headphones",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 181,
+      "WH-Atlanta": 29,
+      "WH-Memphis": 5
+    },
+    "total_stock": 215,
+    "reorder_point": 31,
+    "needs_restock": false,
+    "last_audited": "2024-03-07"
+  },
+  {
+    "sku": "SKU-00070",
+    "product": "Standing Desk",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Atlanta": 40,
+      "WH-Portland": 84
+    },
+    "total_stock": 124,
+    "reorder_point": 45,
+    "needs_restock": false,
+    "last_audited": "2024-04-03"
+  },
+  {
+    "sku": "SKU-00071",
+    "product": "USB-C Hub",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Atlanta": 168,
+      "WH-Portland": 110
+    },
+    "total_stock": 278,
+    "reorder_point": 35,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00072",
+    "product": "Tablet Stand",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Memphis": 52,
+      "WH-Atlanta": 71,
+      "WH-Austin": 192,
+      "WH-Portland": 180
+    },
+    "total_stock": 495,
+    "reorder_point": 14,
+    "needs_restock": false,
+    "last_audited": "2024-03-25"
+  },
+  {
+    "sku": "SKU-00073",
+    "product": "27\" Monitor",
+    "category": "Accessories",
+    "warehouse_stock": {
+      "WH-Atlanta": 67,
+      "WH-Memphis": 171,
+      "WH-Austin": 125
+    },
+    "total_stock": 363,
+    "reorder_point": 43,
+    "needs_restock": false,
+    "last_audited": "2024-04-22"
+  },
+  {
+    "sku": "SKU-00074",
+    "product": "Tablet Stand",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Austin": 158,
+      "WH-Atlanta": 44,
+      "WH-Portland": 172,
+      "WH-Memphis": 180
+    },
+    "total_stock": 554,
+    "reorder_point": 29,
+    "needs_restock": false,
+    "last_audited": "2024-03-18"
+  },
+  {
+    "sku": "SKU-00075",
+    "product": "Mechanical Keyboard",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Austin": 29,
+      "WH-Memphis": 46,
+      "WH-Atlanta": 95
+    },
+    "total_stock": 170,
+    "reorder_point": 19,
+    "needs_restock": false,
+    "last_audited": "2024-04-09"
+  },
+  {
+    "sku": "SKU-00076",
+    "product": "Tablet Stand",
+    "category": "Furniture",
+    "warehouse_stock": {
+      "WH-Memphis": 142,
+      "WH-Austin": 42,
+      "WH-Atlanta": 125,
+      "WH-Portland": 73
+    },
+    "total_stock": 382,
+    "reorder_point": 18,
+    "needs_restock": false,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00077",
+    "product": "Monitor Arm",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Portland": 2
+    },
+    "total_stock": 2,
+    "reorder_point": 41,
+    "needs_restock": true,
+    "last_audited": null
+  },
+  {
+    "sku": "SKU-00078",
+    "product": "Monitor Arm",
+    "category": "Peripherals",
+    "warehouse_stock": {
+      "WH-Memphis": 181,
+      "WH-Portland": 113,
+      "WH-Atlanta": 125,
+      "WH-Austin": 42
+    },
+    "total_stock": 461,
+    "reorder_point": 15,
+    "needs_restock": false,
+    "last_audited": "2024-05-04"
+  },
+  {
+    "sku": "SKU-00079",
+    "product": "Webcam HD",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Atlanta": 43,
+      "WH-Portland": 199,
+      "WH-Memphis": 117
+    },
+    "total_stock": 359,
+    "reorder_point": 46,
+    "needs_restock": false,
+    "last_audited": "2024-03-30"
+  },
+  {
+    "sku": "SKU-00080",
+    "product": "External SSD 1TB",
+    "category": "Electronics",
+    "warehouse_stock": {
+      "WH-Portland": 198
+    },
+    "total_stock": 198,
+    "reorder_point": 44,
+    "needs_restock": false,
+    "last_audited": "2024-04-16"
+  }
+]

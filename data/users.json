@@ -1,0 +1,1911 @@
+[
+  {
+    "id": 1,
+    "name": "Patricia Smith",
+    "email": "user1@example.com",
+    "age": 65,
+    "active": false,
+    "score": 24.5,
+    "tags": [
+      "basic"
+    ],
+    "address": {
+      "street": "1779 Maple Ave",
+      "city": "San Antonio",
+      "state": "NY",
+      "zip": "13905"
+    },
+    "joined": "2020-07-10"
+  },
+  {
+    "id": 2,
+    "name": "Michael Davis",
+    "email": "user2@example.com",
+    "age": 50,
+    "active": true,
+    "score": 56.1,
+    "tags": [
+      "basic",
+      "pro",
+      "enterprise"
+    ],
+    "address": {
+      "street": "6973 Park Blvd",
+      "city": "San Diego",
+      "state": "AZ",
+      "zip": "10851"
+    },
+    "joined": "2020-11-22"
+  },
+  {
+    "id": 3,
+    "name": "Jessica Hernandez",
+    "email": "user3@example.com",
+    "age": 35,
+    "active": true,
+    "score": 21.5,
+    "tags": [
+      "vip",
+      "pro"
+    ],
+    "address": {
+      "street": "6324 Maple Ave",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "89131"
+    },
+    "joined": "2021-06-25"
+  },
+  {
+    "id": 4,
+    "name": "Mary Anderson",
+    "email": "user4@example.com",
+    "age": 52,
+    "active": true,
+    "score": 97.3,
+    "tags": [
+      "vip",
+      "enterprise"
+    ],
+    "address": {
+      "street": "4903 Pine Rd",
+      "city": "Houston",
+      "state": "CA",
+      "zip": "16006"
+    },
+    "joined": "2023-09-16"
+  },
+  {
+    "id": 5,
+    "name": "Linda Martinez",
+    "email": "user5@example.com",
+    "age": 23,
+    "active": true,
+    "score": 86.6,
+    "tags": [
+      "premium",
+      "trial"
+    ],
+    "address": {
+      "street": "6077 Elm Dr",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "37460"
+    },
+    "joined": "2023-10-04"
+  },
+  {
+    "id": 6,
+    "name": "David Williams",
+    "email": "user6@example.com",
+    "age": 56,
+    "active": true,
+    "score": 53.4,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "7673 Lake Way",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip": "99733"
+    },
+    "joined": "2021-10-26"
+  },
+  {
+    "id": 7,
+    "name": "Mary Davis",
+    "email": "user7@example.com",
+    "age": 20,
+    "active": false,
+    "score": 40.1,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "9392 Pine Rd",
+      "city": "Houston",
+      "state": "CA",
+      "zip": "61856"
+    },
+    "joined": "2023-08-09"
+  },
+  {
+    "id": 8,
+    "name": "Joseph Jones",
+    "email": "user8@example.com",
+    "age": 34,
+    "active": true,
+    "score": 24.7,
+    "tags": [
+      "enterprise",
+      "premium",
+      "pro"
+    ],
+    "address": {
+      "street": "7119 Lake Way",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip": "28131"
+    },
+    "joined": "2022-11-09"
+  },
+  {
+    "id": 9,
+    "name": "Sarah Williams",
+    "email": "user9@example.com",
+    "age": 21,
+    "active": true,
+    "score": 15.3,
+    "tags": [
+      "pro"
+    ],
+    "address": {
+      "street": "7016 Maple Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "88104"
+    },
+    "joined": "2022-08-16"
+  },
+  {
+    "id": 10,
+    "name": "Thomas Rodriguez",
+    "email": "user10@example.com",
+    "age": 53,
+    "active": true,
+    "score": 68.0,
+    "tags": [
+      "basic"
+    ],
+    "address": {
+      "street": "8897 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "CA",
+      "zip": "48469"
+    },
+    "joined": "2022-06-09"
+  },
+  {
+    "id": 11,
+    "name": "Jennifer Anderson",
+    "email": "user11@example.com",
+    "age": 18,
+    "active": false,
+    "score": 97.2,
+    "tags": [
+      "enterprise"
+    ],
+    "address": {
+      "street": "1843 Cedar Ln",
+      "city": "Houston",
+      "state": "IL",
+      "zip": "59009"
+    },
+    "joined": "2020-11-26"
+  },
+  {
+    "id": 12,
+    "name": "Karen Taylor",
+    "email": "user12@example.com",
+    "age": 18,
+    "active": false,
+    "score": 48.9,
+    "tags": [
+      "premium"
+    ],
+    "address": {
+      "street": "5138 Park Blvd",
+      "city": "New York",
+      "state": "TX",
+      "zip": "84364"
+    },
+    "joined": "2020-06-10"
+  },
+  {
+    "id": 13,
+    "name": "Robert Thomas",
+    "email": "user13@example.com",
+    "age": 22,
+    "active": true,
+    "score": 12.8,
+    "tags": [
+      "enterprise",
+      "new"
+    ],
+    "address": {
+      "street": "4442 Lake Way",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "50857"
+    },
+    "joined": "2022-03-28"
+  },
+  {
+    "id": 14,
+    "name": "Susan Anderson",
+    "email": "user14@example.com",
+    "age": 51,
+    "active": false,
+    "score": 12.1,
+    "tags": [
+      "vip"
+    ],
+    "address": {
+      "street": "5639 Oak St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "10942"
+    },
+    "joined": "2020-05-25"
+  },
+  {
+    "id": 15,
+    "name": "Mary Davis",
+    "email": "user15@example.com",
+    "age": 22,
+    "active": true,
+    "score": 86.0,
+    "tags": [
+      "enterprise"
+    ],
+    "address": {
+      "street": "3999 Cedar Ln",
+      "city": "San Diego",
+      "state": "TX",
+      "zip": "80678"
+    },
+    "joined": "2020-09-27"
+  },
+  {
+    "id": 16,
+    "name": "Charles Jackson",
+    "email": "user16@example.com",
+    "age": 48,
+    "active": true,
+    "score": 78.5,
+    "tags": [
+      "new",
+      "vip"
+    ],
+    "address": {
+      "street": "1688 Lake Way",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip": "63883"
+    },
+    "joined": "2022-08-14"
+  },
+  {
+    "id": 17,
+    "name": "Mary Brown",
+    "email": "user17@example.com",
+    "age": 21,
+    "active": false,
+    "score": 72.8,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "3239 Park Blvd",
+      "city": "San Diego",
+      "state": "IL",
+      "zip": "65296"
+    },
+    "joined": "2021-01-10"
+  },
+  {
+    "id": 18,
+    "name": "David Anderson",
+    "email": "user18@example.com",
+    "age": 33,
+    "active": true,
+    "score": 44.3,
+    "tags": [
+      "vip",
+      "pro",
+      "enterprise"
+    ],
+    "address": {
+      "street": "341 Maple Ave",
+      "city": "Houston",
+      "state": "IL",
+      "zip": "63269"
+    },
+    "joined": "2022-09-21"
+  },
+  {
+    "id": 19,
+    "name": "Sarah Miller",
+    "email": "user19@example.com",
+    "age": 43,
+    "active": true,
+    "score": 16.5,
+    "tags": [
+      "trial"
+    ],
+    "address": {
+      "street": "4445 Hill Ct",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip": "82845"
+    },
+    "joined": "2023-09-17"
+  },
+  {
+    "id": 20,
+    "name": "Sarah Jones",
+    "email": "user20@example.com",
+    "age": 30,
+    "active": false,
+    "score": 21.8,
+    "tags": [
+      "enterprise"
+    ],
+    "address": {
+      "street": "8983 Oak St",
+      "city": "Philadelphia",
+      "state": "NY",
+      "zip": "16572"
+    },
+    "joined": "2023-04-11"
+  },
+  {
+    "id": 21,
+    "name": "Sarah Taylor",
+    "email": "user21@example.com",
+    "age": 51,
+    "active": true,
+    "score": 5.7,
+    "tags": [
+      "vip",
+      "new",
+      "pro"
+    ],
+    "address": {
+      "street": "9849 Maple Ave",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "25713"
+    },
+    "joined": "2023-03-12"
+  },
+  {
+    "id": 22,
+    "name": "Linda Jackson",
+    "email": "user22@example.com",
+    "age": 56,
+    "active": true,
+    "score": 61.9,
+    "tags": [
+      "basic",
+      "enterprise"
+    ],
+    "address": {
+      "street": "9360 Pine Rd",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip": "97782"
+    },
+    "joined": "2024-01-06"
+  },
+  {
+    "id": 23,
+    "name": "William Davis",
+    "email": "user23@example.com",
+    "age": 34,
+    "active": false,
+    "score": 13.1,
+    "tags": [
+      "premium",
+      "trial",
+      "pro"
+    ],
+    "address": {
+      "street": "1288 Oak St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "19602"
+    },
+    "joined": "2023-01-06"
+  },
+  {
+    "id": 24,
+    "name": "Michael Taylor",
+    "email": "user24@example.com",
+    "age": 34,
+    "active": true,
+    "score": 93.3,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "6154 Cedar Ln",
+      "city": "Chicago",
+      "state": "CA",
+      "zip": "81200"
+    },
+    "joined": "2023-12-11"
+  },
+  {
+    "id": 25,
+    "name": "Barbara Taylor",
+    "email": "user25@example.com",
+    "age": 18,
+    "active": false,
+    "score": 93.2,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "4433 Maple Ave",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip": "45697"
+    },
+    "joined": "2021-07-31"
+  },
+  {
+    "id": 26,
+    "name": "Nancy Miller",
+    "email": "user26@example.com",
+    "age": 63,
+    "active": false,
+    "score": 20.4,
+    "tags": [
+      "pro",
+      "premium",
+      "enterprise"
+    ],
+    "address": {
+      "street": "8104 Cedar Ln",
+      "city": "New York",
+      "state": "CA",
+      "zip": "93136"
+    },
+    "joined": "2022-05-17"
+  },
+  {
+    "id": 27,
+    "name": "David Johnson",
+    "email": "user27@example.com",
+    "age": 18,
+    "active": false,
+    "score": 77.1,
+    "tags": [
+      "premium",
+      "new",
+      "trial"
+    ],
+    "address": {
+      "street": "9138 Lake Way",
+      "city": "New York",
+      "state": "CA",
+      "zip": "19862"
+    },
+    "joined": "2023-11-16"
+  },
+  {
+    "id": 28,
+    "name": "John Moore",
+    "email": "user28@example.com",
+    "age": 20,
+    "active": false,
+    "score": 58.3,
+    "tags": [
+      "trial"
+    ],
+    "address": {
+      "street": "2188 Oak St",
+      "city": "Phoenix",
+      "state": "PA",
+      "zip": "15229"
+    },
+    "joined": "2022-01-02"
+  },
+  {
+    "id": 29,
+    "name": "Michael Davis",
+    "email": "user29@example.com",
+    "age": 60,
+    "active": true,
+    "score": 35.4,
+    "tags": [
+      "pro",
+      "trial",
+      "enterprise"
+    ],
+    "address": {
+      "street": "2632 Park Blvd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "64040"
+    },
+    "joined": "2020-02-20"
+  },
+  {
+    "id": 30,
+    "name": "Jennifer Hernandez",
+    "email": "user30@example.com",
+    "age": 44,
+    "active": true,
+    "score": 26.7,
+    "tags": [
+      "vip",
+      "trial",
+      "pro"
+    ],
+    "address": {
+      "street": "7811 Park Blvd",
+      "city": "Houston",
+      "state": "CA",
+      "zip": "55830"
+    },
+    "joined": "2021-09-17"
+  },
+  {
+    "id": 31,
+    "name": "Linda Davis",
+    "email": "user31@example.com",
+    "age": 19,
+    "active": true,
+    "score": 39.8,
+    "tags": [
+      "pro",
+      "vip"
+    ],
+    "address": {
+      "street": "4673 Pine Rd",
+      "city": "San Antonio",
+      "state": "PA",
+      "zip": "13617"
+    },
+    "joined": "2020-08-24"
+  },
+  {
+    "id": 32,
+    "name": "David Garcia",
+    "email": "user32@example.com",
+    "age": 55,
+    "active": false,
+    "score": 3.8,
+    "tags": [
+      "trial",
+      "premium",
+      "basic"
+    ],
+    "address": {
+      "street": "7249 Maple Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "43386"
+    },
+    "joined": "2020-03-31"
+  },
+  {
+    "id": 33,
+    "name": "Jessica Smith",
+    "email": "user33@example.com",
+    "age": 51,
+    "active": true,
+    "score": 36.4,
+    "tags": [
+      "basic"
+    ],
+    "address": {
+      "street": "5509 Pine Rd",
+      "city": "Los Angeles",
+      "state": "AZ",
+      "zip": "76469"
+    },
+    "joined": "2021-09-25"
+  },
+  {
+    "id": 34,
+    "name": "Jessica Hernandez",
+    "email": "user34@example.com",
+    "age": 43,
+    "active": false,
+    "score": 55.4,
+    "tags": [
+      "trial"
+    ],
+    "address": {
+      "street": "6311 Elm Dr",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip": "81819"
+    },
+    "joined": "2020-01-01"
+  },
+  {
+    "id": 35,
+    "name": "Barbara Martinez",
+    "email": "user35@example.com",
+    "age": 31,
+    "active": false,
+    "score": 78.6,
+    "tags": [
+      "basic",
+      "premium",
+      "trial"
+    ],
+    "address": {
+      "street": "7338 Hill Ct",
+      "city": "Houston",
+      "state": "CA",
+      "zip": "32241"
+    },
+    "joined": "2023-09-11"
+  },
+  {
+    "id": 36,
+    "name": "Robert Martinez",
+    "email": "user36@example.com",
+    "age": 50,
+    "active": false,
+    "score": 9.3,
+    "tags": [
+      "basic"
+    ],
+    "address": {
+      "street": "5185 Park Blvd",
+      "city": "Houston",
+      "state": "IL",
+      "zip": "13201"
+    },
+    "joined": "2020-04-04"
+  },
+  {
+    "id": 37,
+    "name": "Linda Thomas",
+    "email": "user37@example.com",
+    "age": 57,
+    "active": true,
+    "score": 45.5,
+    "tags": [
+      "enterprise",
+      "new",
+      "trial"
+    ],
+    "address": {
+      "street": "8199 Lake Way",
+      "city": "Houston",
+      "state": "IL",
+      "zip": "95990"
+    },
+    "joined": "2023-11-09"
+  },
+  {
+    "id": 38,
+    "name": "James Brown",
+    "email": "user38@example.com",
+    "age": 45,
+    "active": true,
+    "score": 17.6,
+    "tags": [
+      "enterprise",
+      "trial",
+      "vip"
+    ],
+    "address": {
+      "street": "9232 Park Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "27477"
+    },
+    "joined": "2022-08-09"
+  },
+  {
+    "id": 39,
+    "name": "Thomas Moore",
+    "email": "user39@example.com",
+    "age": 56,
+    "active": false,
+    "score": 95.0,
+    "tags": [
+      "enterprise",
+      "basic"
+    ],
+    "address": {
+      "street": "8370 Lake Way",
+      "city": "San Diego",
+      "state": "IL",
+      "zip": "72216"
+    },
+    "joined": "2022-07-10"
+  },
+  {
+    "id": 40,
+    "name": "David Davis",
+    "email": "user40@example.com",
+    "age": 58,
+    "active": false,
+    "score": 76.6,
+    "tags": [
+      "trial",
+      "basic",
+      "new"
+    ],
+    "address": {
+      "street": "4599 Hill Ct",
+      "city": "Los Angeles",
+      "state": "AZ",
+      "zip": "40735"
+    },
+    "joined": "2021-07-10"
+  },
+  {
+    "id": 41,
+    "name": "William Hernandez",
+    "email": "user41@example.com",
+    "age": 52,
+    "active": true,
+    "score": 13.8,
+    "tags": [
+      "trial"
+    ],
+    "address": {
+      "street": "2603 Park Blvd",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip": "63424"
+    },
+    "joined": "2021-11-08"
+  },
+  {
+    "id": 42,
+    "name": "Karen Anderson",
+    "email": "user42@example.com",
+    "age": 44,
+    "active": true,
+    "score": 20.7,
+    "tags": [
+      "trial",
+      "enterprise"
+    ],
+    "address": {
+      "street": "420 Lake Way",
+      "city": "San Diego",
+      "state": "NY",
+      "zip": "56105"
+    },
+    "joined": "2021-09-03"
+  },
+  {
+    "id": 43,
+    "name": "Richard Wilson",
+    "email": "user43@example.com",
+    "age": 52,
+    "active": true,
+    "score": 48.8,
+    "tags": [
+      "trial",
+      "pro"
+    ],
+    "address": {
+      "street": "575 Lake Way",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip": "31632"
+    },
+    "joined": "2022-08-15"
+  },
+  {
+    "id": 44,
+    "name": "John Moore",
+    "email": "user44@example.com",
+    "age": 19,
+    "active": false,
+    "score": 59.2,
+    "tags": [
+      "vip",
+      "pro",
+      "trial"
+    ],
+    "address": {
+      "street": "2323 Hill Ct",
+      "city": "Chicago",
+      "state": "NY",
+      "zip": "44099"
+    },
+    "joined": "2022-02-15"
+  },
+  {
+    "id": 45,
+    "name": "William Miller",
+    "email": "user45@example.com",
+    "age": 47,
+    "active": false,
+    "score": 33.8,
+    "tags": [
+      "premium",
+      "trial"
+    ],
+    "address": {
+      "street": "4233 Maple Ave",
+      "city": "San Diego",
+      "state": "NY",
+      "zip": "80702"
+    },
+    "joined": "2020-04-16"
+  },
+  {
+    "id": 46,
+    "name": "Susan Davis",
+    "email": "user46@example.com",
+    "age": 59,
+    "active": true,
+    "score": 78.1,
+    "tags": [
+      "vip",
+      "pro",
+      "new"
+    ],
+    "address": {
+      "street": "3366 Oak St",
+      "city": "Chicago",
+      "state": "TX",
+      "zip": "26544"
+    },
+    "joined": "2022-08-27"
+  },
+  {
+    "id": 47,
+    "name": "Patricia Jackson",
+    "email": "user47@example.com",
+    "age": 31,
+    "active": false,
+    "score": 69.9,
+    "tags": [
+      "new",
+      "enterprise"
+    ],
+    "address": {
+      "street": "1976 Elm Dr",
+      "city": "Phoenix",
+      "state": "CA",
+      "zip": "85849"
+    },
+    "joined": "2020-02-22"
+  },
+  {
+    "id": 48,
+    "name": "Barbara Jackson",
+    "email": "user48@example.com",
+    "age": 61,
+    "active": false,
+    "score": 39.7,
+    "tags": [
+      "new",
+      "vip",
+      "enterprise"
+    ],
+    "address": {
+      "street": "4078 Maple Ave",
+      "city": "Phoenix",
+      "state": "CA",
+      "zip": "84177"
+    },
+    "joined": "2020-03-25"
+  },
+  {
+    "id": 49,
+    "name": "Susan Moore",
+    "email": "user49@example.com",
+    "age": 45,
+    "active": false,
+    "score": 6.9,
+    "tags": [
+      "premium",
+      "vip",
+      "trial"
+    ],
+    "address": {
+      "street": "8131 Maple Ave",
+      "city": "San Antonio",
+      "state": "PA",
+      "zip": "93307"
+    },
+    "joined": "2022-07-30"
+  },
+  {
+    "id": 50,
+    "name": "John Wilson",
+    "email": "user50@example.com",
+    "age": 29,
+    "active": false,
+    "score": 61.6,
+    "tags": [
+      "pro",
+      "trial",
+      "basic"
+    ],
+    "address": {
+      "street": "7236 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip": "21359"
+    },
+    "joined": "2021-07-25"
+  },
+  {
+    "id": 51,
+    "name": "Joseph Davis",
+    "email": "user51@example.com",
+    "age": 47,
+    "active": false,
+    "score": 33.6,
+    "tags": [
+      "pro",
+      "premium"
+    ],
+    "address": {
+      "street": "3079 Hill Ct",
+      "city": "Houston",
+      "state": "PA",
+      "zip": "43862"
+    },
+    "joined": "2021-11-28"
+  },
+  {
+    "id": 52,
+    "name": "David Rodriguez",
+    "email": "user52@example.com",
+    "age": 53,
+    "active": true,
+    "score": 51.7,
+    "tags": [
+      "vip"
+    ],
+    "address": {
+      "street": "4054 Lake Way",
+      "city": "San Diego",
+      "state": "TX",
+      "zip": "72402"
+    },
+    "joined": "2023-08-15"
+  },
+  {
+    "id": 53,
+    "name": "Sarah Anderson",
+    "email": "user53@example.com",
+    "age": 19,
+    "active": true,
+    "score": 29.4,
+    "tags": [
+      "basic",
+      "new"
+    ],
+    "address": {
+      "street": "5116 Pine Rd",
+      "city": "San Diego",
+      "state": "PA",
+      "zip": "65771"
+    },
+    "joined": "2023-02-01"
+  },
+  {
+    "id": 54,
+    "name": "William Lopez",
+    "email": "user54@example.com",
+    "age": 62,
+    "active": false,
+    "score": 27.1,
+    "tags": [
+      "new",
+      "vip"
+    ],
+    "address": {
+      "street": "3255 Pine Rd",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip": "35105"
+    },
+    "joined": "2021-03-19"
+  },
+  {
+    "id": 55,
+    "name": "Sarah Rodriguez",
+    "email": "user55@example.com",
+    "age": 64,
+    "active": false,
+    "score": 98.1,
+    "tags": [
+      "premium"
+    ],
+    "address": {
+      "street": "3827 Pine Rd",
+      "city": "Chicago",
+      "state": "AZ",
+      "zip": "11854"
+    },
+    "joined": "2023-12-21"
+  },
+  {
+    "id": 56,
+    "name": "Karen Jones",
+    "email": "user56@example.com",
+    "age": 35,
+    "active": true,
+    "score": 97.4,
+    "tags": [
+      "premium",
+      "basic",
+      "new"
+    ],
+    "address": {
+      "street": "8142 Maple Ave",
+      "city": "New York",
+      "state": "AZ",
+      "zip": "71524"
+    },
+    "joined": "2022-09-07"
+  },
+  {
+    "id": 57,
+    "name": "Joseph Hernandez",
+    "email": "user57@example.com",
+    "age": 29,
+    "active": true,
+    "score": 25.2,
+    "tags": [
+      "vip",
+      "pro"
+    ],
+    "address": {
+      "street": "6665 Hill Ct",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip": "29887"
+    },
+    "joined": "2020-11-01"
+  },
+  {
+    "id": 58,
+    "name": "Charles Martinez",
+    "email": "user58@example.com",
+    "age": 23,
+    "active": true,
+    "score": 11.8,
+    "tags": [
+      "enterprise",
+      "pro"
+    ],
+    "address": {
+      "street": "3797 Lake Way",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "48974"
+    },
+    "joined": "2023-04-20"
+  },
+  {
+    "id": 59,
+    "name": "Jessica Martinez",
+    "email": "user59@example.com",
+    "age": 54,
+    "active": true,
+    "score": 61.0,
+    "tags": [
+      "vip",
+      "new",
+      "basic"
+    ],
+    "address": {
+      "street": "4435 Maple Ave",
+      "city": "Chicago",
+      "state": "TX",
+      "zip": "32782"
+    },
+    "joined": "2023-02-04"
+  },
+  {
+    "id": 60,
+    "name": "Robert Garcia",
+    "email": "user60@example.com",
+    "age": 18,
+    "active": false,
+    "score": 45.1,
+    "tags": [
+      "trial",
+      "premium",
+      "vip"
+    ],
+    "address": {
+      "street": "3892 Cedar Ln",
+      "city": "Phoenix",
+      "state": "CA",
+      "zip": "19329"
+    },
+    "joined": "2023-11-08"
+  },
+  {
+    "id": 61,
+    "name": "Linda Rodriguez",
+    "email": "user61@example.com",
+    "age": 58,
+    "active": true,
+    "score": 42.5,
+    "tags": [
+      "new",
+      "basic",
+      "pro"
+    ],
+    "address": {
+      "street": "4452 Elm Dr",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip": "31747"
+    },
+    "joined": "2021-09-21"
+  },
+  {
+    "id": 62,
+    "name": "Nancy Jackson",
+    "email": "user62@example.com",
+    "age": 36,
+    "active": false,
+    "score": 12.4,
+    "tags": [
+      "premium",
+      "basic",
+      "trial"
+    ],
+    "address": {
+      "street": "4560 Hill Ct",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "88385"
+    },
+    "joined": "2020-03-22"
+  },
+  {
+    "id": 63,
+    "name": "Jessica Hernandez",
+    "email": "user63@example.com",
+    "age": 56,
+    "active": false,
+    "score": 2.6,
+    "tags": [
+      "basic"
+    ],
+    "address": {
+      "street": "9524 Oak St",
+      "city": "Phoenix",
+      "state": "NY",
+      "zip": "32962"
+    },
+    "joined": "2022-08-21"
+  },
+  {
+    "id": 64,
+    "name": "Thomas Anderson",
+    "email": "user64@example.com",
+    "age": 35,
+    "active": true,
+    "score": 99.7,
+    "tags": [
+      "basic",
+      "trial"
+    ],
+    "address": {
+      "street": "1594 Hill Ct",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip": "53687"
+    },
+    "joined": "2021-10-19"
+  },
+  {
+    "id": 65,
+    "name": "Patricia Garcia",
+    "email": "user65@example.com",
+    "age": 39,
+    "active": false,
+    "score": 69.4,
+    "tags": [
+      "basic",
+      "trial"
+    ],
+    "address": {
+      "street": "9112 Oak St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "51224"
+    },
+    "joined": "2021-05-31"
+  },
+  {
+    "id": 66,
+    "name": "William Brown",
+    "email": "user66@example.com",
+    "age": 43,
+    "active": true,
+    "score": 65.8,
+    "tags": [
+      "trial",
+      "pro",
+      "vip"
+    ],
+    "address": {
+      "street": "3173 Pine Rd",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "16764"
+    },
+    "joined": "2021-02-20"
+  },
+  {
+    "id": 67,
+    "name": "David Moore",
+    "email": "user67@example.com",
+    "age": 26,
+    "active": false,
+    "score": 43.8,
+    "tags": [
+      "trial",
+      "vip",
+      "basic"
+    ],
+    "address": {
+      "street": "4020 Elm Dr",
+      "city": "Phoenix",
+      "state": "NY",
+      "zip": "82384"
+    },
+    "joined": "2022-04-15"
+  },
+  {
+    "id": 68,
+    "name": "Robert Davis",
+    "email": "user68@example.com",
+    "age": 25,
+    "active": false,
+    "score": 94.7,
+    "tags": [
+      "pro",
+      "new",
+      "trial"
+    ],
+    "address": {
+      "street": "4881 Cedar Ln",
+      "city": "San Antonio",
+      "state": "CA",
+      "zip": "71894"
+    },
+    "joined": "2021-05-14"
+  },
+  {
+    "id": 69,
+    "name": "Joseph Moore",
+    "email": "user69@example.com",
+    "age": 27,
+    "active": false,
+    "score": 19.1,
+    "tags": [
+      "enterprise",
+      "basic",
+      "new"
+    ],
+    "address": {
+      "street": "1243 Cedar Ln",
+      "city": "San Antonio",
+      "state": "PA",
+      "zip": "76550"
+    },
+    "joined": "2021-07-01"
+  },
+  {
+    "id": 70,
+    "name": "James Martinez",
+    "email": "user70@example.com",
+    "age": 64,
+    "active": false,
+    "score": 83.7,
+    "tags": [
+      "basic",
+      "trial",
+      "new"
+    ],
+    "address": {
+      "street": "7416 Hill Ct",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "82340"
+    },
+    "joined": "2023-01-17"
+  },
+  {
+    "id": 71,
+    "name": "Richard Anderson",
+    "email": "user71@example.com",
+    "age": 38,
+    "active": true,
+    "score": 98.1,
+    "tags": [
+      "enterprise"
+    ],
+    "address": {
+      "street": "6374 Park Blvd",
+      "city": "San Antonio",
+      "state": "NY",
+      "zip": "51704"
+    },
+    "joined": "2022-08-26"
+  },
+  {
+    "id": 72,
+    "name": "Richard Gonzalez",
+    "email": "user72@example.com",
+    "age": 60,
+    "active": true,
+    "score": 49.5,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "8329 Pine Rd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "23069"
+    },
+    "joined": "2022-12-13"
+  },
+  {
+    "id": 73,
+    "name": "Joseph Smith",
+    "email": "user73@example.com",
+    "age": 64,
+    "active": true,
+    "score": 41.0,
+    "tags": [
+      "new",
+      "vip",
+      "trial"
+    ],
+    "address": {
+      "street": "4442 Pine Rd",
+      "city": "San Antonio",
+      "state": "CA",
+      "zip": "53065"
+    },
+    "joined": "2023-10-13"
+  },
+  {
+    "id": 74,
+    "name": "Karen Gonzalez",
+    "email": "user74@example.com",
+    "age": 38,
+    "active": false,
+    "score": 87.2,
+    "tags": [
+      "enterprise"
+    ],
+    "address": {
+      "street": "1221 Park Blvd",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip": "21846"
+    },
+    "joined": "2022-06-07"
+  },
+  {
+    "id": 75,
+    "name": "Patricia Brown",
+    "email": "user75@example.com",
+    "age": 46,
+    "active": true,
+    "score": 69.4,
+    "tags": [
+      "vip"
+    ],
+    "address": {
+      "street": "5414 Oak St",
+      "city": "Phoenix",
+      "state": "PA",
+      "zip": "59131"
+    },
+    "joined": "2022-06-01"
+  },
+  {
+    "id": 76,
+    "name": "John Davis",
+    "email": "user76@example.com",
+    "age": 51,
+    "active": false,
+    "score": 56.6,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "2968 Maple Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "75230"
+    },
+    "joined": "2023-04-09"
+  },
+  {
+    "id": 77,
+    "name": "John Davis",
+    "email": "user77@example.com",
+    "age": 47,
+    "active": false,
+    "score": 46.0,
+    "tags": [
+      "vip",
+      "trial",
+      "premium"
+    ],
+    "address": {
+      "street": "9055 Elm Dr",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "55293"
+    },
+    "joined": "2023-04-18"
+  },
+  {
+    "id": 78,
+    "name": "Barbara Wilson",
+    "email": "user78@example.com",
+    "age": 62,
+    "active": false,
+    "score": 45.7,
+    "tags": [
+      "new",
+      "trial"
+    ],
+    "address": {
+      "street": "8016 Maple Ave",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "84963"
+    },
+    "joined": "2022-01-05"
+  },
+  {
+    "id": 79,
+    "name": "Charles Martinez",
+    "email": "user79@example.com",
+    "age": 62,
+    "active": false,
+    "score": 2.2,
+    "tags": [
+      "trial",
+      "premium",
+      "vip"
+    ],
+    "address": {
+      "street": "9372 Oak St",
+      "city": "San Diego",
+      "state": "AZ",
+      "zip": "40162"
+    },
+    "joined": "2023-05-28"
+  },
+  {
+    "id": 80,
+    "name": "Susan Davis",
+    "email": "user80@example.com",
+    "age": 58,
+    "active": true,
+    "score": 62.1,
+    "tags": [
+      "pro",
+      "basic",
+      "new"
+    ],
+    "address": {
+      "street": "1691 Oak St",
+      "city": "Phoenix",
+      "state": "CA",
+      "zip": "14373"
+    },
+    "joined": "2023-04-01"
+  },
+  {
+    "id": 81,
+    "name": "Susan Jones",
+    "email": "user81@example.com",
+    "age": 23,
+    "active": false,
+    "score": 32.7,
+    "tags": [
+      "new",
+      "pro"
+    ],
+    "address": {
+      "street": "2265 Pine Rd",
+      "city": "Phoenix",
+      "state": "IL",
+      "zip": "43681"
+    },
+    "joined": "2022-09-13"
+  },
+  {
+    "id": 82,
+    "name": "Barbara Hernandez",
+    "email": "user82@example.com",
+    "age": 25,
+    "active": false,
+    "score": 96.3,
+    "tags": [
+      "pro"
+    ],
+    "address": {
+      "street": "3796 Lake Way",
+      "city": "Philadelphia",
+      "state": "CA",
+      "zip": "61717"
+    },
+    "joined": "2020-01-29"
+  },
+  {
+    "id": 83,
+    "name": "David Moore",
+    "email": "user83@example.com",
+    "age": 25,
+    "active": false,
+    "score": 36.9,
+    "tags": [
+      "basic",
+      "premium",
+      "enterprise"
+    ],
+    "address": {
+      "street": "6342 Pine Rd",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip": "71797"
+    },
+    "joined": "2020-02-21"
+  },
+  {
+    "id": 84,
+    "name": "Nancy Moore",
+    "email": "user84@example.com",
+    "age": 38,
+    "active": true,
+    "score": 64.8,
+    "tags": [
+      "pro",
+      "trial",
+      "premium"
+    ],
+    "address": {
+      "street": "6789 Maple Ave",
+      "city": "Chicago",
+      "state": "NY",
+      "zip": "14877"
+    },
+    "joined": "2021-09-15"
+  },
+  {
+    "id": 85,
+    "name": "Sarah Brown",
+    "email": "user85@example.com",
+    "age": 24,
+    "active": true,
+    "score": 88.7,
+    "tags": [
+      "trial"
+    ],
+    "address": {
+      "street": "7532 Pine Rd",
+      "city": "San Antonio",
+      "state": "IL",
+      "zip": "64379"
+    },
+    "joined": "2023-09-03"
+  },
+  {
+    "id": 86,
+    "name": "Patricia Thomas",
+    "email": "user86@example.com",
+    "age": 57,
+    "active": false,
+    "score": 93.9,
+    "tags": [
+      "vip",
+      "basic"
+    ],
+    "address": {
+      "street": "6170 Park Blvd",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "40947"
+    },
+    "joined": "2022-01-12"
+  },
+  {
+    "id": 87,
+    "name": "Patricia Lopez",
+    "email": "user87@example.com",
+    "age": 52,
+    "active": false,
+    "score": 6.1,
+    "tags": [
+      "new",
+      "vip"
+    ],
+    "address": {
+      "street": "7550 Maple Ave",
+      "city": "Houston",
+      "state": "NY",
+      "zip": "16629"
+    },
+    "joined": "2021-11-14"
+  },
+  {
+    "id": 88,
+    "name": "Linda Jones",
+    "email": "user88@example.com",
+    "age": 54,
+    "active": true,
+    "score": 6.9,
+    "tags": [
+      "new",
+      "enterprise",
+      "pro"
+    ],
+    "address": {
+      "street": "3917 Pine Rd",
+      "city": "Chicago",
+      "state": "NY",
+      "zip": "46342"
+    },
+    "joined": "2020-10-23"
+  },
+  {
+    "id": 89,
+    "name": "John Moore",
+    "email": "user89@example.com",
+    "age": 34,
+    "active": true,
+    "score": 11.0,
+    "tags": [
+      "new"
+    ],
+    "address": {
+      "street": "343 Pine Rd",
+      "city": "Houston",
+      "state": "PA",
+      "zip": "12068"
+    },
+    "joined": "2020-12-22"
+  },
+  {
+    "id": 90,
+    "name": "David Johnson",
+    "email": "user90@example.com",
+    "age": 26,
+    "active": false,
+    "score": 52.6,
+    "tags": [
+      "vip",
+      "trial",
+      "basic"
+    ],
+    "address": {
+      "street": "6031 Maple Ave",
+      "city": "San Diego",
+      "state": "TX",
+      "zip": "90623"
+    },
+    "joined": "2020-03-29"
+  },
+  {
+    "id": 91,
+    "name": "Thomas Martinez",
+    "email": "user91@example.com",
+    "age": 47,
+    "active": true,
+    "score": 6.1,
+    "tags": [
+      "pro",
+      "trial"
+    ],
+    "address": {
+      "street": "7084 Maple Ave",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "19632"
+    },
+    "joined": "2020-06-14"
+  },
+  {
+    "id": 92,
+    "name": "William Jones",
+    "email": "user92@example.com",
+    "age": 22,
+    "active": true,
+    "score": 27.5,
+    "tags": [
+      "enterprise",
+      "pro",
+      "premium"
+    ],
+    "address": {
+      "street": "6340 Cedar Ln",
+      "city": "San Diego",
+      "state": "TX",
+      "zip": "22999"
+    },
+    "joined": "2023-12-08"
+  },
+  {
+    "id": 93,
+    "name": "Patricia Moore",
+    "email": "user93@example.com",
+    "age": 64,
+    "active": true,
+    "score": 43.0,
+    "tags": [
+      "trial"
+    ],
+    "address": {
+      "street": "5653 Hill Ct",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "22463"
+    },
+    "joined": "2021-10-02"
+  },
+  {
+    "id": 94,
+    "name": "Jessica Hernandez",
+    "email": "user94@example.com",
+    "age": 60,
+    "active": false,
+    "score": 37.4,
+    "tags": [
+      "basic"
+    ],
+    "address": {
+      "street": "7870 Maple Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "22219"
+    },
+    "joined": "2022-06-03"
+  },
+  {
+    "id": 95,
+    "name": "Patricia Lopez",
+    "email": "user95@example.com",
+    "age": 26,
+    "active": true,
+    "score": 58.6,
+    "tags": [
+      "enterprise",
+      "premium",
+      "vip"
+    ],
+    "address": {
+      "street": "6830 Pine Rd",
+      "city": "San Antonio",
+      "state": "NY",
+      "zip": "47700"
+    },
+    "joined": "2023-05-14"
+  },
+  {
+    "id": 96,
+    "name": "Barbara Lopez",
+    "email": "user96@example.com",
+    "age": 24,
+    "active": true,
+    "score": 15.5,
+    "tags": [
+      "new",
+      "vip"
+    ],
+    "address": {
+      "street": "5836 Pine Rd",
+      "city": "Los Angeles",
+      "state": "AZ",
+      "zip": "85248"
+    },
+    "joined": "2021-04-08"
+  },
+  {
+    "id": 97,
+    "name": "Jessica Moore",
+    "email": "user97@example.com",
+    "age": 57,
+    "active": true,
+    "score": 60.9,
+    "tags": [
+      "pro",
+      "basic",
+      "premium"
+    ],
+    "address": {
+      "street": "574 Elm Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "54541"
+    },
+    "joined": "2021-12-19"
+  },
+  {
+    "id": 98,
+    "name": "James Garcia",
+    "email": "user98@example.com",
+    "age": 27,
+    "active": false,
+    "score": 7.0,
+    "tags": [
+      "basic",
+      "vip",
+      "pro"
+    ],
+    "address": {
+      "street": "8791 Park Blvd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "69460"
+    },
+    "joined": "2021-11-29"
+  },
+  {
+    "id": 99,
+    "name": "Jennifer Lopez",
+    "email": "user99@example.com",
+    "age": 37,
+    "active": false,
+    "score": 77.7,
+    "tags": [
+      "enterprise",
+      "vip",
+      "basic"
+    ],
+    "address": {
+      "street": "2649 Elm Dr",
+      "city": "New York",
+      "state": "CA",
+      "zip": "45665"
+    },
+    "joined": "2022-06-26"
+  },
+  {
+    "id": 100,
+    "name": "Jessica Thomas",
+    "email": "user100@example.com",
+    "age": 56,
+    "active": false,
+    "score": 41.4,
+    "tags": [
+      "pro"
+    ],
+    "address": {
+      "street": "8494 Maple Ave",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip": "24534"
+    },
+    "joined": "2021-08-03"
+  }
+]

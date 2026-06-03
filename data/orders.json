@@ -1,0 +1,1564 @@
+[
+  {
+    "order_id": "ORD-0001",
+    "customer_id": "C0016",
+    "status": "pending",
+    "order_date": "2024-05-07",
+    "items": [
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 5,
+        "unit_price": 336.88,
+        "subtotal": 1684.4
+      },
+      {
+        "product": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 203.67,
+        "subtotal": 407.34
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 1,
+        "unit_price": 13.76,
+        "subtotal": 13.76
+      },
+      {
+        "product": "Webcam HD",
+        "quantity": 2,
+        "unit_price": 385.99,
+        "subtotal": 771.98
+      },
+      {
+        "product": "Standing Desk",
+        "quantity": 3,
+        "unit_price": 151.82,
+        "subtotal": 455.46
+      }
+    ],
+    "total": 3332.94,
+    "shipping": {
+      "method": "overnight",
+      "cost": 12.92
+    }
+  },
+  {
+    "order_id": "ORD-0002",
+    "customer_id": "C0046",
+    "status": "pending",
+    "order_date": "2024-04-11",
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "quantity": 5,
+        "unit_price": 354.79,
+        "subtotal": 1773.95
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 5,
+        "unit_price": 418.33,
+        "subtotal": 2091.65
+      }
+    ],
+    "total": 3865.6,
+    "shipping": {
+      "method": "overnight",
+      "cost": 1.27
+    }
+  },
+  {
+    "order_id": "ORD-0003",
+    "customer_id": "C0074",
+    "status": "cancelled",
+    "order_date": "2024-05-26",
+    "items": [
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 1,
+        "unit_price": 432.42,
+        "subtotal": 432.42
+      }
+    ],
+    "total": 432.42,
+    "shipping": {
+      "method": "express",
+      "cost": 21.28
+    }
+  },
+  {
+    "order_id": "ORD-0004",
+    "customer_id": "C0014",
+    "status": "shipped",
+    "order_date": "2024-04-21",
+    "items": [
+      {
+        "product": "Webcam HD",
+        "quantity": 1,
+        "unit_price": 208.46,
+        "subtotal": 208.46
+      },
+      {
+        "product": "Laptop Stand",
+        "quantity": 2,
+        "unit_price": 402.64,
+        "subtotal": 805.28
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 4,
+        "unit_price": 417.68,
+        "subtotal": 1670.72
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 3,
+        "unit_price": 53.17,
+        "subtotal": 159.51
+      }
+    ],
+    "total": 2843.97,
+    "shipping": {
+      "method": "overnight",
+      "cost": 12.01
+    }
+  },
+  {
+    "order_id": "ORD-0005",
+    "customer_id": "C0029",
+    "status": "delivered",
+    "order_date": "2024-02-13",
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "quantity": 3,
+        "unit_price": 375.43,
+        "subtotal": 1126.29
+      }
+    ],
+    "total": 1126.29,
+    "shipping": {
+      "method": "standard",
+      "cost": 15.31
+    }
+  },
+  {
+    "order_id": "ORD-0006",
+    "customer_id": "C0100",
+    "status": "delivered",
+    "order_date": "2024-03-30",
+    "items": [
+      {
+        "product": "External SSD 1TB",
+        "quantity": 5,
+        "unit_price": 105.0,
+        "subtotal": 525.0
+      }
+    ],
+    "total": 525.0,
+    "shipping": {
+      "method": "overnight",
+      "cost": 28.74
+    }
+  },
+  {
+    "order_id": "ORD-0007",
+    "customer_id": "C0098",
+    "status": "pending",
+    "order_date": "2024-02-15",
+    "items": [
+      {
+        "product": "USB-C Hub",
+        "quantity": 1,
+        "unit_price": 81.75,
+        "subtotal": 81.75
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 2,
+        "unit_price": 305.17,
+        "subtotal": 610.34
+      }
+    ],
+    "total": 692.09,
+    "shipping": {
+      "method": "overnight",
+      "cost": 14.82
+    }
+  },
+  {
+    "order_id": "ORD-0008",
+    "customer_id": "C0039",
+    "status": "delivered",
+    "order_date": "2024-01-15",
+    "items": [
+      {
+        "product": "Standing Desk",
+        "quantity": 5,
+        "unit_price": 229.95,
+        "subtotal": 1149.75
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 5,
+        "unit_price": 325.06,
+        "subtotal": 1625.3
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 433.47,
+        "subtotal": 1300.41
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 3,
+        "unit_price": 83.96,
+        "subtotal": 251.88
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 4,
+        "unit_price": 226.67,
+        "subtotal": 906.68
+      }
+    ],
+    "total": 5234.02,
+    "shipping": {
+      "method": "express",
+      "cost": 15.22
+    }
+  },
+  {
+    "order_id": "ORD-0009",
+    "customer_id": "C0065",
+    "status": "cancelled",
+    "order_date": "2024-04-28",
+    "items": [
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 4,
+        "unit_price": 28.42,
+        "subtotal": 113.68
+      },
+      {
+        "product": "Laptop Stand",
+        "quantity": 3,
+        "unit_price": 47.59,
+        "subtotal": 142.77
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 1,
+        "unit_price": 311.34,
+        "subtotal": 311.34
+      }
+    ],
+    "total": 567.79,
+    "shipping": {
+      "method": "overnight",
+      "cost": 16.62
+    }
+  },
+  {
+    "order_id": "ORD-0010",
+    "customer_id": "C0042",
+    "status": "cancelled",
+    "order_date": "2024-05-08",
+    "items": [
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 5,
+        "unit_price": 329.39,
+        "subtotal": 1646.95
+      }
+    ],
+    "total": 1646.95,
+    "shipping": {
+      "method": "standard",
+      "cost": 28.72
+    }
+  },
+  {
+    "order_id": "ORD-0011",
+    "customer_id": "C0021",
+    "status": "delivered",
+    "order_date": "2024-04-05",
+    "items": [
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 3,
+        "unit_price": 491.36,
+        "subtotal": 1474.08
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 5,
+        "unit_price": 326.59,
+        "subtotal": 1632.95
+      },
+      {
+        "product": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 356.72,
+        "subtotal": 713.44
+      },
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 5,
+        "unit_price": 266.14,
+        "subtotal": 1330.7
+      }
+    ],
+    "total": 5151.17,
+    "shipping": {
+      "method": "express",
+      "cost": 11.62
+    }
+  },
+  {
+    "order_id": "ORD-0012",
+    "customer_id": "C0037",
+    "status": "delivered",
+    "order_date": "2024-02-08",
+    "items": [
+      {
+        "product": "Charging Pad",
+        "quantity": 5,
+        "unit_price": 35.65,
+        "subtotal": 178.25
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 3,
+        "unit_price": 42.29,
+        "subtotal": 126.87
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 5,
+        "unit_price": 342.4,
+        "subtotal": 1712.0
+      }
+    ],
+    "total": 2017.12,
+    "shipping": {
+      "method": "express",
+      "cost": 2.44
+    }
+  },
+  {
+    "order_id": "ORD-0013",
+    "customer_id": "C0091",
+    "status": "pending",
+    "order_date": "2024-03-20",
+    "items": [
+      {
+        "product": "Cable Management Kit",
+        "quantity": 3,
+        "unit_price": 162.0,
+        "subtotal": 486.0
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 4,
+        "unit_price": 73.18,
+        "subtotal": 292.72
+      }
+    ],
+    "total": 778.72,
+    "shipping": {
+      "method": "overnight",
+      "cost": 11.3
+    }
+  },
+  {
+    "order_id": "ORD-0014",
+    "customer_id": "C0003",
+    "status": "delivered",
+    "order_date": "2024-03-20",
+    "items": [
+      {
+        "product": "Monitor Arm",
+        "quantity": 2,
+        "unit_price": 338.35,
+        "subtotal": 676.7
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 5,
+        "unit_price": 55.78,
+        "subtotal": 278.9
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 4,
+        "unit_price": 259.15,
+        "subtotal": 1036.6
+      }
+    ],
+    "total": 1992.2,
+    "shipping": {
+      "method": "standard",
+      "cost": 28.53
+    }
+  },
+  {
+    "order_id": "ORD-0015",
+    "customer_id": "C0070",
+    "status": "pending",
+    "order_date": "2024-03-27",
+    "items": [
+      {
+        "product": "Standing Desk",
+        "quantity": 4,
+        "unit_price": 104.07,
+        "subtotal": 416.28
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 2,
+        "unit_price": 47.8,
+        "subtotal": 95.6
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 1,
+        "unit_price": 258.76,
+        "subtotal": 258.76
+      }
+    ],
+    "total": 770.64,
+    "shipping": {
+      "method": "overnight",
+      "cost": 3.93
+    }
+  },
+  {
+    "order_id": "ORD-0016",
+    "customer_id": "C0079",
+    "status": "delivered",
+    "order_date": "2024-04-24",
+    "items": [
+      {
+        "product": "27\" Monitor",
+        "quantity": 2,
+        "unit_price": 98.6,
+        "subtotal": 197.2
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 5,
+        "unit_price": 406.42,
+        "subtotal": 2032.1
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 4,
+        "unit_price": 31.4,
+        "subtotal": 125.6
+      },
+      {
+        "product": "Laptop Stand",
+        "quantity": 2,
+        "unit_price": 485.09,
+        "subtotal": 970.18
+      }
+    ],
+    "total": 3325.08,
+    "shipping": {
+      "method": "standard",
+      "cost": 16.01
+    }
+  },
+  {
+    "order_id": "ORD-0017",
+    "customer_id": "C0037",
+    "status": "cancelled",
+    "order_date": "2024-05-08",
+    "items": [
+      {
+        "product": "Standing Desk",
+        "quantity": 4,
+        "unit_price": 452.94,
+        "subtotal": 1811.76
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 3,
+        "unit_price": 342.36,
+        "subtotal": 1027.08
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 4,
+        "unit_price": 236.21,
+        "subtotal": 944.84
+      }
+    ],
+    "total": 3783.68,
+    "shipping": {
+      "method": "overnight",
+      "cost": 12.56
+    }
+  },
+  {
+    "order_id": "ORD-0018",
+    "customer_id": "C0062",
+    "status": "delivered",
+    "order_date": "2024-05-21",
+    "items": [
+      {
+        "product": "Monitor Arm",
+        "quantity": 2,
+        "unit_price": 402.61,
+        "subtotal": 805.22
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 3,
+        "unit_price": 35.56,
+        "subtotal": 106.68
+      }
+    ],
+    "total": 911.9,
+    "shipping": {
+      "method": "standard",
+      "cost": 21.33
+    }
+  },
+  {
+    "order_id": "ORD-0019",
+    "customer_id": "C0004",
+    "status": "cancelled",
+    "order_date": "2024-01-14",
+    "items": [
+      {
+        "product": "Monitor Arm",
+        "quantity": 1,
+        "unit_price": 149.67,
+        "subtotal": 149.67
+      },
+      {
+        "product": "Standing Desk",
+        "quantity": 2,
+        "unit_price": 143.66,
+        "subtotal": 287.32
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 5,
+        "unit_price": 82.19,
+        "subtotal": 410.95
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 1,
+        "unit_price": 473.73,
+        "subtotal": 473.73
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 4,
+        "unit_price": 443.46,
+        "subtotal": 1773.84
+      }
+    ],
+    "total": 3095.51,
+    "shipping": {
+      "method": "express",
+      "cost": 15.06
+    }
+  },
+  {
+    "order_id": "ORD-0020",
+    "customer_id": "C0092",
+    "status": "delivered",
+    "order_date": "2024-02-07",
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "quantity": 1,
+        "unit_price": 193.7,
+        "subtotal": 193.7
+      },
+      {
+        "product": "Wireless Mouse",
+        "quantity": 3,
+        "unit_price": 466.09,
+        "subtotal": 1398.27
+      }
+    ],
+    "total": 1591.97,
+    "shipping": {
+      "method": "standard",
+      "cost": 1.15
+    }
+  },
+  {
+    "order_id": "ORD-0021",
+    "customer_id": "C0094",
+    "status": "cancelled",
+    "order_date": "2024-01-29",
+    "items": [
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 2,
+        "unit_price": 381.82,
+        "subtotal": 763.64
+      },
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 4,
+        "unit_price": 311.51,
+        "subtotal": 1246.04
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 1,
+        "unit_price": 19.3,
+        "subtotal": 19.3
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 2,
+        "unit_price": 278.9,
+        "subtotal": 557.8
+      }
+    ],
+    "total": 2586.78,
+    "shipping": {
+      "method": "express",
+      "cost": 7.13
+    }
+  },
+  {
+    "order_id": "ORD-0022",
+    "customer_id": "C0080",
+    "status": "cancelled",
+    "order_date": "2024-01-17",
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 215.7,
+        "subtotal": 431.4
+      }
+    ],
+    "total": 431.4,
+    "shipping": {
+      "method": "standard",
+      "cost": 25.09
+    }
+  },
+  {
+    "order_id": "ORD-0023",
+    "customer_id": "C0054",
+    "status": "shipped",
+    "order_date": "2024-01-22",
+    "items": [
+      {
+        "product": "Tablet Stand",
+        "quantity": 5,
+        "unit_price": 18.04,
+        "subtotal": 90.2
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 5,
+        "unit_price": 128.54,
+        "subtotal": 642.7
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 3,
+        "unit_price": 220.32,
+        "subtotal": 660.96
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 127.87,
+        "subtotal": 383.61
+      }
+    ],
+    "total": 1777.47,
+    "shipping": {
+      "method": "overnight",
+      "cost": 29.23
+    }
+  },
+  {
+    "order_id": "ORD-0024",
+    "customer_id": "C0065",
+    "status": "pending",
+    "order_date": "2024-04-09",
+    "items": [
+      {
+        "product": "External SSD 1TB",
+        "quantity": 5,
+        "unit_price": 258.58,
+        "subtotal": 1292.9
+      }
+    ],
+    "total": 1292.9,
+    "shipping": {
+      "method": "express",
+      "cost": 1.31
+    }
+  },
+  {
+    "order_id": "ORD-0025",
+    "customer_id": "C0046",
+    "status": "delivered",
+    "order_date": "2024-02-14",
+    "items": [
+      {
+        "product": "Laptop Stand",
+        "quantity": 3,
+        "unit_price": 376.18,
+        "subtotal": 1128.54
+      },
+      {
+        "product": "Laptop Stand",
+        "quantity": 1,
+        "unit_price": 178.94,
+        "subtotal": 178.94
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 1,
+        "unit_price": 388.03,
+        "subtotal": 388.03
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 3,
+        "unit_price": 75.36,
+        "subtotal": 226.08
+      }
+    ],
+    "total": 1921.59,
+    "shipping": {
+      "method": "overnight",
+      "cost": 13.93
+    }
+  },
+  {
+    "order_id": "ORD-0026",
+    "customer_id": "C0040",
+    "status": "cancelled",
+    "order_date": "2024-05-19",
+    "items": [
+      {
+        "product": "Charging Pad",
+        "quantity": 2,
+        "unit_price": 407.62,
+        "subtotal": 815.24
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 4,
+        "unit_price": 28.11,
+        "subtotal": 112.44
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 1,
+        "unit_price": 397.63,
+        "subtotal": 397.63
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 1,
+        "unit_price": 164.63,
+        "subtotal": 164.63
+      }
+    ],
+    "total": 1489.94,
+    "shipping": {
+      "method": "express",
+      "cost": 7.6
+    }
+  },
+  {
+    "order_id": "ORD-0027",
+    "customer_id": "C0048",
+    "status": "cancelled",
+    "order_date": "2024-04-12",
+    "items": [
+      {
+        "product": "Webcam HD",
+        "quantity": 3,
+        "unit_price": 432.44,
+        "subtotal": 1297.32
+      },
+      {
+        "product": "Wireless Mouse",
+        "quantity": 3,
+        "unit_price": 143.87,
+        "subtotal": 431.61
+      }
+    ],
+    "total": 1728.93,
+    "shipping": {
+      "method": "overnight",
+      "cost": 13.19
+    }
+  },
+  {
+    "order_id": "ORD-0028",
+    "customer_id": "C0078",
+    "status": "shipped",
+    "order_date": "2024-05-19",
+    "items": [
+      {
+        "product": "Laptop Stand",
+        "quantity": 2,
+        "unit_price": 253.13,
+        "subtotal": 506.26
+      },
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 3,
+        "unit_price": 462.9,
+        "subtotal": 1388.7
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 3,
+        "unit_price": 402.55,
+        "subtotal": 1207.65
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 4,
+        "unit_price": 48.66,
+        "subtotal": 194.64
+      }
+    ],
+    "total": 3297.25,
+    "shipping": {
+      "method": "express",
+      "cost": 9.63
+    }
+  },
+  {
+    "order_id": "ORD-0029",
+    "customer_id": "C0078",
+    "status": "cancelled",
+    "order_date": "2024-02-12",
+    "items": [
+      {
+        "product": "Laptop Stand",
+        "quantity": 3,
+        "unit_price": 160.17,
+        "subtotal": 480.51
+      }
+    ],
+    "total": 480.51,
+    "shipping": {
+      "method": "overnight",
+      "cost": 13.31
+    }
+  },
+  {
+    "order_id": "ORD-0030",
+    "customer_id": "C0096",
+    "status": "shipped",
+    "order_date": "2024-01-08",
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "quantity": 3,
+        "unit_price": 311.27,
+        "subtotal": 933.81
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 3,
+        "unit_price": 323.33,
+        "subtotal": 969.99
+      },
+      {
+        "product": "Standing Desk",
+        "quantity": 1,
+        "unit_price": 46.76,
+        "subtotal": 46.76
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 4,
+        "unit_price": 188.01,
+        "subtotal": 752.04
+      }
+    ],
+    "total": 2702.6,
+    "shipping": {
+      "method": "standard",
+      "cost": 25.45
+    }
+  },
+  {
+    "order_id": "ORD-0031",
+    "customer_id": "C0048",
+    "status": "cancelled",
+    "order_date": "2024-01-20",
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "quantity": 2,
+        "unit_price": 42.93,
+        "subtotal": 85.86
+      },
+      {
+        "product": "Standing Desk",
+        "quantity": 3,
+        "unit_price": 187.44,
+        "subtotal": 562.32
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 1,
+        "unit_price": 306.49,
+        "subtotal": 306.49
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 4,
+        "unit_price": 474.91,
+        "subtotal": 1899.64
+      }
+    ],
+    "total": 2854.31,
+    "shipping": {
+      "method": "overnight",
+      "cost": 4.13
+    }
+  },
+  {
+    "order_id": "ORD-0032",
+    "customer_id": "C0072",
+    "status": "pending",
+    "order_date": "2024-03-08",
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "quantity": 3,
+        "unit_price": 328.27,
+        "subtotal": 984.81
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 1,
+        "unit_price": 22.69,
+        "subtotal": 22.69
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 4,
+        "unit_price": 263.69,
+        "subtotal": 1054.76
+      }
+    ],
+    "total": 2062.26,
+    "shipping": {
+      "method": "express",
+      "cost": 21.11
+    }
+  },
+  {
+    "order_id": "ORD-0033",
+    "customer_id": "C0010",
+    "status": "cancelled",
+    "order_date": "2024-02-14",
+    "items": [
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 350.04,
+        "subtotal": 1050.12
+      },
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 2,
+        "unit_price": 70.08,
+        "subtotal": 140.16
+      }
+    ],
+    "total": 1190.28,
+    "shipping": {
+      "method": "overnight",
+      "cost": 13.35
+    }
+  },
+  {
+    "order_id": "ORD-0034",
+    "customer_id": "C0091",
+    "status": "pending",
+    "order_date": "2024-05-20",
+    "items": [
+      {
+        "product": "Standing Desk",
+        "quantity": 3,
+        "unit_price": 337.23,
+        "subtotal": 1011.69
+      }
+    ],
+    "total": 1011.69,
+    "shipping": {
+      "method": "overnight",
+      "cost": 8.71
+    }
+  },
+  {
+    "order_id": "ORD-0035",
+    "customer_id": "C0026",
+    "status": "shipped",
+    "order_date": "2024-03-01",
+    "items": [
+      {
+        "product": "Monitor Arm",
+        "quantity": 2,
+        "unit_price": 358.78,
+        "subtotal": 717.56
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 2,
+        "unit_price": 398.9,
+        "subtotal": 797.8
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 2,
+        "unit_price": 69.46,
+        "subtotal": 138.92
+      }
+    ],
+    "total": 1654.28,
+    "shipping": {
+      "method": "express",
+      "cost": 0.79
+    }
+  },
+  {
+    "order_id": "ORD-0036",
+    "customer_id": "C0010",
+    "status": "shipped",
+    "order_date": "2024-03-22",
+    "items": [
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 239.02,
+        "subtotal": 717.06
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 2,
+        "unit_price": 309.84,
+        "subtotal": 619.68
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 1,
+        "unit_price": 161.54,
+        "subtotal": 161.54
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 4,
+        "unit_price": 267.58,
+        "subtotal": 1070.32
+      },
+      {
+        "product": "Standing Desk",
+        "quantity": 4,
+        "unit_price": 413.43,
+        "subtotal": 1653.72
+      }
+    ],
+    "total": 4222.32,
+    "shipping": {
+      "method": "overnight",
+      "cost": 2.22
+    }
+  },
+  {
+    "order_id": "ORD-0037",
+    "customer_id": "C0067",
+    "status": "shipped",
+    "order_date": "2024-03-18",
+    "items": [
+      {
+        "product": "Charging Pad",
+        "quantity": 5,
+        "unit_price": 178.8,
+        "subtotal": 894.0
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 5,
+        "unit_price": 323.49,
+        "subtotal": 1617.45
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 2,
+        "unit_price": 221.97,
+        "subtotal": 443.94
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 1,
+        "unit_price": 417.37,
+        "subtotal": 417.37
+      }
+    ],
+    "total": 3372.76,
+    "shipping": {
+      "method": "standard",
+      "cost": 4.86
+    }
+  },
+  {
+    "order_id": "ORD-0038",
+    "customer_id": "C0082",
+    "status": "delivered",
+    "order_date": "2024-02-02",
+    "items": [
+      {
+        "product": "Laptop Stand",
+        "quantity": 5,
+        "unit_price": 448.5,
+        "subtotal": 2242.5
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 1,
+        "unit_price": 132.79,
+        "subtotal": 132.79
+      }
+    ],
+    "total": 2375.29,
+    "shipping": {
+      "method": "overnight",
+      "cost": 9.08
+    }
+  },
+  {
+    "order_id": "ORD-0039",
+    "customer_id": "C0004",
+    "status": "pending",
+    "order_date": "2024-01-12",
+    "items": [
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 5,
+        "unit_price": 324.07,
+        "subtotal": 1620.35
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 5,
+        "unit_price": 85.55,
+        "subtotal": 427.75
+      },
+      {
+        "product": "Charging Pad",
+        "quantity": 5,
+        "unit_price": 363.1,
+        "subtotal": 1815.5
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 422.83,
+        "subtotal": 1268.49
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 1,
+        "unit_price": 414.36,
+        "subtotal": 414.36
+      }
+    ],
+    "total": 5546.45,
+    "shipping": {
+      "method": "overnight",
+      "cost": 23.12
+    }
+  },
+  {
+    "order_id": "ORD-0040",
+    "customer_id": "C0039",
+    "status": "cancelled",
+    "order_date": "2024-03-03",
+    "items": [
+      {
+        "product": "Charging Pad",
+        "quantity": 2,
+        "unit_price": 385.8,
+        "subtotal": 771.6
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 5,
+        "unit_price": 323.1,
+        "subtotal": 1615.5
+      },
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 5,
+        "unit_price": 151.93,
+        "subtotal": 759.65
+      }
+    ],
+    "total": 3146.75,
+    "shipping": {
+      "method": "overnight",
+      "cost": 12.18
+    }
+  },
+  {
+    "order_id": "ORD-0041",
+    "customer_id": "C0045",
+    "status": "cancelled",
+    "order_date": "2024-02-03",
+    "items": [
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 1,
+        "unit_price": 87.45,
+        "subtotal": 87.45
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 4,
+        "unit_price": 237.57,
+        "subtotal": 950.28
+      },
+      {
+        "product": "Laptop Stand",
+        "quantity": 5,
+        "unit_price": 80.39,
+        "subtotal": 401.95
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 3,
+        "unit_price": 369.75,
+        "subtotal": 1109.25
+      }
+    ],
+    "total": 2548.93,
+    "shipping": {
+      "method": "express",
+      "cost": 15.44
+    }
+  },
+  {
+    "order_id": "ORD-0042",
+    "customer_id": "C0035",
+    "status": "cancelled",
+    "order_date": "2024-03-04",
+    "items": [
+      {
+        "product": "Laptop Stand",
+        "quantity": 2,
+        "unit_price": 238.56,
+        "subtotal": 477.12
+      }
+    ],
+    "total": 477.12,
+    "shipping": {
+      "method": "standard",
+      "cost": 2.9
+    }
+  },
+  {
+    "order_id": "ORD-0043",
+    "customer_id": "C0025",
+    "status": "shipped",
+    "order_date": "2024-05-07",
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "quantity": 5,
+        "unit_price": 214.88,
+        "subtotal": 1074.4
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 2,
+        "unit_price": 408.59,
+        "subtotal": 817.18
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 5,
+        "unit_price": 363.34,
+        "subtotal": 1816.7
+      }
+    ],
+    "total": 3708.28,
+    "shipping": {
+      "method": "overnight",
+      "cost": 14.0
+    }
+  },
+  {
+    "order_id": "ORD-0044",
+    "customer_id": "C0007",
+    "status": "pending",
+    "order_date": "2024-03-13",
+    "items": [
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 1,
+        "unit_price": 54.11,
+        "subtotal": 54.11
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 5,
+        "unit_price": 234.03,
+        "subtotal": 1170.15
+      },
+      {
+        "product": "USB-C Hub",
+        "quantity": 2,
+        "unit_price": 295.83,
+        "subtotal": 591.66
+      }
+    ],
+    "total": 1815.92,
+    "shipping": {
+      "method": "express",
+      "cost": 17.92
+    }
+  },
+  {
+    "order_id": "ORD-0045",
+    "customer_id": "C0073",
+    "status": "shipped",
+    "order_date": "2024-04-02",
+    "items": [
+      {
+        "product": "Webcam HD",
+        "quantity": 5,
+        "unit_price": 14.0,
+        "subtotal": 70.0
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 4,
+        "unit_price": 75.62,
+        "subtotal": 302.48
+      },
+      {
+        "product": "Webcam HD",
+        "quantity": 3,
+        "unit_price": 384.28,
+        "subtotal": 1152.84
+      },
+      {
+        "product": "Laptop Stand",
+        "quantity": 1,
+        "unit_price": 206.27,
+        "subtotal": 206.27
+      }
+    ],
+    "total": 1731.59,
+    "shipping": {
+      "method": "overnight",
+      "cost": 8.66
+    }
+  },
+  {
+    "order_id": "ORD-0046",
+    "customer_id": "C0044",
+    "status": "delivered",
+    "order_date": "2024-02-06",
+    "items": [
+      {
+        "product": "External SSD 1TB",
+        "quantity": 4,
+        "unit_price": 384.55,
+        "subtotal": 1538.2
+      },
+      {
+        "product": "Webcam HD",
+        "quantity": 5,
+        "unit_price": 343.39,
+        "subtotal": 1716.95
+      },
+      {
+        "product": "Mechanical Keyboard",
+        "quantity": 2,
+        "unit_price": 487.78,
+        "subtotal": 975.56
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 3,
+        "unit_price": 399.49,
+        "subtotal": 1198.47
+      }
+    ],
+    "total": 5429.18,
+    "shipping": {
+      "method": "standard",
+      "cost": 18.07
+    }
+  },
+  {
+    "order_id": "ORD-0047",
+    "customer_id": "C0079",
+    "status": "delivered",
+    "order_date": "2024-02-11",
+    "items": [
+      {
+        "product": "External SSD 1TB",
+        "quantity": 1,
+        "unit_price": 32.19,
+        "subtotal": 32.19
+      },
+      {
+        "product": "27\" Monitor",
+        "quantity": 3,
+        "unit_price": 403.93,
+        "subtotal": 1211.79
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 4,
+        "unit_price": 82.97,
+        "subtotal": 331.88
+      },
+      {
+        "product": "Cable Management Kit",
+        "quantity": 5,
+        "unit_price": 78.48,
+        "subtotal": 392.4
+      }
+    ],
+    "total": 1968.26,
+    "shipping": {
+      "method": "express",
+      "cost": 29.71
+    }
+  },
+  {
+    "order_id": "ORD-0048",
+    "customer_id": "C0003",
+    "status": "delivered",
+    "order_date": "2024-03-25",
+    "items": [
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 258.57,
+        "subtotal": 775.71
+      },
+      {
+        "product": "External SSD 1TB",
+        "quantity": 5,
+        "unit_price": 250.01,
+        "subtotal": 1250.05
+      },
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 242.69,
+        "subtotal": 728.07
+      }
+    ],
+    "total": 2753.83,
+    "shipping": {
+      "method": "overnight",
+      "cost": 3.29
+    }
+  },
+  {
+    "order_id": "ORD-0049",
+    "customer_id": "C0022",
+    "status": "cancelled",
+    "order_date": "2024-02-07",
+    "items": [
+      {
+        "product": "Tablet Stand",
+        "quantity": 3,
+        "unit_price": 400.4,
+        "subtotal": 1201.2
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 1,
+        "unit_price": 302.48,
+        "subtotal": 302.48
+      },
+      {
+        "product": "Webcam HD",
+        "quantity": 5,
+        "unit_price": 293.03,
+        "subtotal": 1465.15
+      },
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 1,
+        "unit_price": 295.92,
+        "subtotal": 295.92
+      }
+    ],
+    "total": 3264.75,
+    "shipping": {
+      "method": "overnight",
+      "cost": 7.26
+    }
+  },
+  {
+    "order_id": "ORD-0050",
+    "customer_id": "C0067",
+    "status": "shipped",
+    "order_date": "2024-05-23",
+    "items": [
+      {
+        "product": "Ergonomic Chair",
+        "quantity": 1,
+        "unit_price": 103.47,
+        "subtotal": 103.47
+      },
+      {
+        "product": "Noise Cancelling Headphones",
+        "quantity": 3,
+        "unit_price": 215.19,
+        "subtotal": 645.57
+      },
+      {
+        "product": "Desk Lamp",
+        "quantity": 2,
+        "unit_price": 211.07,
+        "subtotal": 422.14
+      },
+      {
+        "product": "Standing Desk",
+        "quantity": 5,
+        "unit_price": 461.05,
+        "subtotal": 2305.25
+      },
+      {
+        "product": "Monitor Arm",
+        "quantity": 1,
+        "unit_price": 355.82,
+        "subtotal": 355.82
+      }
+    ],
+    "total": 3832.25,
+    "shipping": {
+      "method": "express",
+      "cost": 29.93
+    }
+  }
+]
