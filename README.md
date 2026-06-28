@@ -12,6 +12,7 @@
 
 - `numpy学习/` — NumPy 基础：ndarray 特性、索引切片、运算、常用函数
 - `pandas学习/` — Pandas 入门：Series、DataFrame 操作
+- `matplotlib学习/` 
 - `machine learning/` — 机器学习：PCA、LSTM、LeNet、AutoEncoder、Softmax 等
 
 ## 🔧 本地运行
